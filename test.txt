@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdgasdgadfgaprivet
+=======
+gadfgaprivet
+>>>>>>> 314a7d4482bfc14f782490d4df77de9cd374da4b
